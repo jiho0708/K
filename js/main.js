@@ -38,7 +38,7 @@ $(document).ready(function(){
           slideShadows: true,
         },
         slidesPerView :4,
-        // autoplay: true,
+        autoplay: true,
         pagination: {
           el: ".swiper-pagination",
         },
