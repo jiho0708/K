@@ -283,12 +283,12 @@ main .container h2 {
 } */
 
 .building-bt .jh {
-  width: 580px;
+  width: 400px;
   transition: all 2s;
   position: absolute;
   opacity: 0;
-  top: 250px;
-  left: 470px;
+  top: 350px;
+  left: 550px;
 }
 .building-bt .jh.ho {
   opacity: .5;
@@ -773,5 +773,5 @@ font-size: 2rem;
 color: #ff1d1d;
 }
 
-/* ㄴ */
+/* 뽀송뽀송 */
 
